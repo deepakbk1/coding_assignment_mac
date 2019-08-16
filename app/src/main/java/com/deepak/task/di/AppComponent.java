@@ -1,6 +1,6 @@
 package com.deepak.task.di;
 
-import com.deepak.task.ui.movielist.MainActivity;
+import com.deepak.task.ui.MainActivity;
 
 import javax.inject.Singleton;
 

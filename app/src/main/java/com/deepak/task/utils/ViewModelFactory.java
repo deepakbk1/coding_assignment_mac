@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.deepak.task.ui.movielist.MovieListViewModel;
+import com.deepak.task.ui.MovieListViewModel;
 
 import javax.inject.Inject;
 
